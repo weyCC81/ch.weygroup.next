@@ -4,7 +4,8 @@ body {
     font-family: 'Segoe UI Web Regular', 'Segoe UI', 'Segoe WP', Tahoma, Arial, sans-serif;
     /*background-color: lightgrey;*/
     font-size: 2em;
-    color: #0078d4;
+    /*color: #0078d4;*/
+    color: #201f1e;
     margin: 2em;
     background-color: #edebe9;
 }
